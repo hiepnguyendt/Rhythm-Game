@@ -1,5 +1,4 @@
-# Rhythm Game - A Dynamic Multi-Track Musical Challenge with Animated Animals
-
+# Rhythm Game 
 This Pygame-based rhythm game offers an engaging musical experience where players hit falling notes represented by animated animals across multiple tracks. The game features adaptive difficulty progression, responsive design scaling, and a comprehensive scoring system that rewards precise timing and accuracy.
 
 The game combines classic rhythm game mechanics with unique animated characters (bird, frog, rabbit, and cat) that respond dynamically to player input. Each difficulty level introduces new challenges through adjusted note speeds, spawn rates, and timing thresholds, creating an engaging progression system that keeps players motivated to improve their skills. The game automatically scales to the player's screen resolution while maintaining playability and visual clarity.
